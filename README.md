@@ -1,6 +1,6 @@
 # DhephGram
 Instagram Clone
 
-![dhephGram](https://user-images.githubusercontent.com/51960639/99671421-c5d8c480-2a50-11eb-8aee-8076a6aca848.png)
+![dhephgram](https://user-images.githubusercontent.com/51960639/99723492-05bf9c00-2a91-11eb-908c-ea634779376b.gif)
 
 
